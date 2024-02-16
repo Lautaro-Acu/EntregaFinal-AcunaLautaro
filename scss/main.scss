@@ -1,7 +1,6 @@
 * {
   font-family: "Poppins", sans-serif;
 }
-
 /*HEADER*/
 .img-logo {
   width: 250px;
@@ -17,6 +16,7 @@
 /*.menu {
     margin: 10px;
   }*/
+
 ul {
   display: flex;
   justify-content: space-evenly;
@@ -37,6 +37,7 @@ ul {
 }
 
 /*MAIN*/
+
 .img-container {
   padding: 10px;
   display: grid;
@@ -64,7 +65,6 @@ ul {
 .main-guitars-container p {
   font-size: 24px;
 }
-
 .main-guitars-container {
   padding: 10px;
   display: grid;
@@ -80,6 +80,7 @@ ul {
 }
 
 /* MAIN - GUITARS*/
+
 .guitars-container-img {
   width: 300px;
   height: 80%;
@@ -119,13 +120,13 @@ h1 {
 }
 
 /*MAIN - MARCAS*/
+
 .marcas-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-
 .div-marcas-container {
   width: 100%;
   height: auto;
@@ -142,8 +143,7 @@ h1 {
 }
 
 /*FOOTER*/
+
 footer p {
   text-align: center;
 }
-
-/*# sourceMappingURL=styles.css.map */
